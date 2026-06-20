@@ -1,0 +1,29 @@
+KSP Breaking Ground Türkçe Yama
+
+Kerbal Space Program Breaking Ground DLC'si için hazırlanmış kapsamlı Türkçe yerelleştirme çalışmasıdır.
+
+Yapılanlar
+Oyuncuya görünen tüm arayüz metinleri Türkçeleştirildi.
+Bilim deneyleri ve açıklamaları çevrildi.
+Surface Features (Yüzey Özellikleri) metinleri çevrildi.
+Deployed Science (Yerleştirilebilir Bilim) sistemi çevrildi.
+Robotik sistem menüleri ve ayarları çevrildi.
+Görev ve eğitim metinleri çevrildi.
+Yazım ve anlam kontrolleri yapıldı.
+Çeviri İlkeleri
+Kerbin, Mun, Minmus, Duna, Jool ve diğer özel isimler korunmuştur.
+Parça isimleri korunmuştur.
+Search Tag satırları değiştirilmemiştir.
+CFG yapısı korunmuştur.
+Oyun içi terminolojiye uygun çeviri tercih edilmiştir.
+Durum
+
+Sürüm: 1.0 Final
+
+Breaking Ground DLC için oyuncuya görünen metinlerin büyük bölümü Türkçeleştirilmiş ve oyun içi test aşamasına alınmıştır.
+
+Kurulum
+
+Türkçe yama dosyasını KSP kurulum klasörünüzdeki ilgili Localization dizinine kopyalayın ve mevcut dosyanın yedeğini almayı unutmayın.
+
+İyi uçuşlar ve bol bilim puanı!
